@@ -30,3 +30,8 @@ Displays side nav based on given page url.
 To use in 2 columns template with no need to create multiple templates.
 
 All subpages for given root url will have the same side nav.
+
+###2.3. Dynamic H1
+file: \_template-inner_dynamic-h1.inc
+
+When h1 is placed in template file but needs to be different than page name. It requires h1.json file.
