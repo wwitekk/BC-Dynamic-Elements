@@ -2,9 +2,12 @@
 Various dynamic elements for Business Catalyst sites.
 
 #Content
-1. Socials folder
-2. Partials folder
-3. Functions
+1. [Socials folder](../master/README.md#1-socials-folder)
+2. [Partials folder](../master/README.md#2-partials-folder)
+  1. [Dynamic bredcrumbs](../master/README.md#21-dynamic-bredcrumbs)
+  2. [Dynamic side nav](../master/README.md#22-dynamic-side-nav)
+  3. [Dynamic H1](../master/README.md#23-dynamic-h1)
+3. [Functions]()
 
 ##1. Socials folders
 Displays share buttons for various social sites.
