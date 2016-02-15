@@ -1,5 +1,5 @@
 # BC-Dynamic-Elements
-Various dynamic elements form Business Catalyst
+Various dynamic elements for Business Catalyst sites.
 
 #Content
 1. Socials folder
