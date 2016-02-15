@@ -35,3 +35,10 @@ All subpages for given root url will have the same side nav.
 file: \_template-inner_dynamic-h1.inc
 
 When h1 is placed in template file but needs to be different than page name. It requires h1.json file.
+```json
+{"pages":[
+	{"url": "/whats-on", "h1":"What's on this year"},
+	{"url": "/blog",	"h1": "Our Blog"},
+	{"url": "/contact",	"h1": "Get in Touch"}
+]}
+```
