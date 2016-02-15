@@ -7,7 +7,7 @@ Various dynamic elements for Business Catalyst sites.
   1. [Dynamic bredcrumbs](../master/README.md#21-dynamic-bredcrumbs)
   2. [Dynamic side nav](../master/README.md#22-dynamic-side-nav)
   3. [Dynamic H1](../master/README.md#23-dynamic-h1)
-3. [Functions]()
+3. Functions
 
 ##1. Socials folder
 Displays share buttons for various social sites.
