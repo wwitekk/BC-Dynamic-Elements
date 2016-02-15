@@ -9,7 +9,7 @@ Various dynamic elements form Business Catalyst
 ##1. Socials folders
 Displays share buttons for various social sites.
 
-Example [here](http://office-brands.businesscatalyst.com/news/how-to-build-an-easy-office-cupboard-in-minutes).
+Example [here](http://office-brands.businesscatalyst.com/news/how-to-build-an-easy-office-cupboard-in-minutes) (bottom of the page).
 
 To use in Blog article details page. See *\_use-it.html* for example.
 
