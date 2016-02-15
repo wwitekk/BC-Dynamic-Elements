@@ -14,6 +14,7 @@ Example [here](http://office-brands.businesscatalyst.com/news/how-to-build-an-ea
 To use in Blog article details page. See *\_use-it.html* for example.
 
 ##2. Partials folder
+Contains dynamic site elements (side nav, breadcrumbs) to use in template files. Allows to render some page elements dynamically instead of creating multiple template files.
 ###2.1. Dynamic bredcrumbs
 file: \_template-inner_dynamic-bredcrumbs.inc
 
